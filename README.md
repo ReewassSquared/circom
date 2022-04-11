@@ -8,6 +8,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/iden3/circom)
 
 </div>
+
 # NOTE
 
 This project is a fork of `circom` for use over the ristretto curve. Use at your own risk.
