@@ -10,7 +10,7 @@ Expressions can be built using the next operators, but the conditional operator 
 
 A field element is a value in the domain of Z/pZ, where p is the prime number set by default to 
 
-`p = 21888242871839275222246405745257275088548364400416034343698204186575808495617.`
+`p = 7237005577332262213973186563042994240857116359379907606001950938285454250989
 
 As such, field elements are operated in arithmetic modulo p.
 

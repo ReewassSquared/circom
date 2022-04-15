@@ -42,7 +42,7 @@ So, an arithmetic circuit takes some **input signals** that are values between `
 To generate and validate zk-SNARK proofs in **Ethereum**, we need to work with `F_p`-arithmetic circuits, taking the prime:
 
 ```text
-p = 21888242871839275222246405745257275088548364400416034343698204186575808495617
+p = 7237005577332262213973186563042994240857116359379907606001950938285454250989
 ```
 
 In the figure below, we have defined an `F_7`-arithmetic circuit that performs the operation: `out = a*b + c`. The circuit has 5 signals: the signals `a`, `b` and `c` are input signals, `d` is an intermediate signal and the`out` signal is the output of the circuit.
